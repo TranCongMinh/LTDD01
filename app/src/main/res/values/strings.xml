@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Skype</string>
+    <string name="hint_account">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_login">LOGIN</string>
+    <string name="text_register">REGISTER</string>
+    <string name="text_facebook">Log in with Facebook</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
